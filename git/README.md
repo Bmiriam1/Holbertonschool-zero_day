@@ -1,1 +1,1 @@
-Git directory README
+Update README.md from GitHub interface
